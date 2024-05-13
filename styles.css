@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	left:50%;
+	top:50%;
+}
+#inputdiv{
+	display:flex;
+	flex-direction:column;
+	padding:20px;
+	border:1px solid black;
+	width:300px;
+	gap:10px;
+}
+
+.gamepage{
+	border:1px solid red;
+	height:300px;
+	width:300px;
+}
